@@ -4,13 +4,14 @@
  * (86)18789460468
  * 707-799-8675
  
-Xi'an Jiaotong University  
+#### Xi'an Jiaotong University
+
 No.28, West Xianning Rd, Beilin District Xi'an, Shaanxi, P.R.China 710049
 
 ## Education
 
 Bachelor of Engineering in Automation
-09/2010 - present
+#### 09/2010 - present
 School of Electronics and Information Engineering, **Xi’an
 Jiaotong University**
 
@@ -21,7 +22,7 @@ C language, C++ language, AutoCAD, MATLAB, LabVIEW
 
 ## Research Experience:
 
-11/2013 - present
+#### 11/2013 - present
 
 **Researcher**, The Instrument Timbre Analysis Based on Signal
 Processing & The Power Law of Pitch Fluctuations in the Music Composition, School of Electronics and Information Engineering, Xi’an Jiaotong University
