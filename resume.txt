@@ -1,0 +1,55 @@
+# Bohan Xie
+
+ * <bohanxie.xjtu@gmail.com>
+ * (86)18789460468
+ * 707-799-8675
+ 
+Xi'an Jiaotong University  
+No.28, West Xianning Rd, Beilin District Xi'an, Shaanxi, P.R.China 710049
+
+## Education
+
+Bachelor of Engineering in Automation
+09/2010 - present
+School of Electronics and Information Engineering, **Xi’an
+Jiaotong University**
+
+### Courses and skills relevant to Music Technology:
+
+Data Structures and Algorithms, Electric Circuits, Analog Electronics, Digital Logic Circuit Design, Signals and Systems, Digital Signal Processing, Design of Embedded Systems, Testing Technology, Principles of Computer Networks;
+C language, C++ language, AutoCAD, MATLAB, LabVIEW
+
+## Research Experience:
+
+11/2013 - present
+
+**Researcher**, The Instrument Timbre Analysis Based on Signal
+Processing & The Power Law of Pitch Fluctuations in the Music Composition, School of Electronics and Information Engineering, Xi’an Jiaotong University
+
+* Utilized the frequency domain analysis on the sound samples by using short time Fourier transformation to distinguish the good and bad timbre.
+
+*  Systemized melodics into a mathematical model and took it as a basis to build the power law of pitch fluctuations.
+
+### Performance Experience
+
+#### 09/2010 - present
+
+Formed the band **Colorful Z-bra** as a lyricist, composer, arranger, lead
+singer and guitarist. Performed more than 30 times in different venues
+from various cities.
+
+### Colorful Z-bra’s Events:
+
+* Apr. 30, 2012, Performed in 2012 Shanghai Strawberry Music Festival, Shanghai.
+
+* Dec. 28, 2012, Be invited by Universal Music, performed in “China Salutes the Velvet Underground & Nico 45th Anniversary, 1967-2012”, Xi’an.
+
+* May. 18, 2013, Be invited by douban.com, performed in “System Error in Beijing”
+
+* 07/2013 - 08/2013, Recorded the first album at Psychic Kong studio, Beijing.
+
+* 09/2012 - present, Formed the band **Bias** as an arranger and drummer. Performed more than 10 times in different venues from various cities.
+
+* 07/2013 - present, Formed the band **Qinling Resort** as an arranger and drummer. Performed several times in Xi’an, Hangzhou, and Shanghai.
+
+* 09/2010 - present, Solo project **XBH** using guitar, effects, signal generator, self-made contact microphone and some circuits. Ever performed and improvised with Uchihashi Kazuhisa (Japan), Kawabata Makoto (Japan), Tim Blechmann (Austria), Max Loeb Garcia (Germany), Jonas Hummel (Germany), Graham Booth (UK), Scott Nydegger (U.S.).
