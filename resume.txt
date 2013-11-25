@@ -2,7 +2,6 @@
 
  * <bohanxie.xjtu@gmail.com>
  * (86)18789460468
- * 707-799-8675
  
 #### Xi'an Jiaotong University
 
@@ -31,7 +30,7 @@ Processing & The Power Law of Pitch Fluctuations in the Music Composition, Schoo
 
 *  Systemized melodics into a mathematical model and took it as a basis to build the power law of pitch fluctuations.
 
-### Performance Experience
+## Performance Experience
 
 #### 09/2010 - present
 
@@ -54,3 +53,52 @@ from various cities.
 * 07/2013 - present, Formed the band **Qinling Resort** as an arranger and drummer. Performed several times in Xi’an, Hangzhou, and Shanghai.
 
 * 09/2010 - present, Solo project **XBH** using guitar, effects, signal generator, self-made contact microphone and some circuits. Ever performed and improvised with Uchihashi Kazuhisa (Japan), Kawabata Makoto (Japan), Tim Blechmann (Austria), Max Loeb Garcia (Germany), Jonas Hummel (Germany), Graham Booth (UK), Scott Nydegger (U.S.).
+
+
+## Organization Experience:
+* 09/2010-06/2011 Group Leader, Art Department of Student Union
+
+  * Planned and organized campus activities.
+  * Contacted local firms to seek for sponsorship for campus activities.
+
+* 09/2011-06/2012 President, Guitar Association, Xi’an Jiaotong University
+
+  * Negotiated with teachers and staffs of university to consult some issues about associations, arrange activities, and discuss our association’s fund.
+
+  * Communicated and cooperated with other associations and organizations inside and outside school.
+
+  * Administered and directed my association. Assigned different tasks to everyone of my association.
+
+* 12/2011-present Founder, Proprietor, Organizer, System Error (an indie experimental music organization & record label)
+
+   * Founded the System Error at 12/2011, aiming at improve the environment of experimental music.
+
+   * Received these artists and arranged everything for them, like negotiation with performance venues, transportation, and accommodation. Promoted interaction and communication between local and foreign musicians. Propagandized the activities on the Internet. Ran the System Error Weibo account, the live blog and Douban dialogues. (Weibo and Douban are Chinese versions of Twitter and Facebook)
+
+   * Held 32 shows in China. Invited artists from home and abroad, including Uchihashi Kazuhisa (Japan), Kawabata Makoto (Japan), Tim Blechmann (Austria), Max Loeb Garcia (Germany), Jonas Hummel (Germany), Graham Booth (UK), Phil Minton (UK), Audrey Chen (U.S.), Meta Fog (HongKong), Nikola Mounoud (Switzerland), Sikhara (U.S.), SABOT (U.S.), Daniel Aschwanden (Austria), Conny Zenk (Austria), Yan Jun (China), Li Jianhong (China) and so on.
+
+   * Held two workshops:
+   
+     * Apr. 19, 2013 Introduction to Supercollider and Its Language, Lecturer: Tim Blechmann (Austria)
+     * Sept. 9, 2013 Circuits Bending, Self-made Devices, and Supercollider, Lecturer: Jonas Hummel (Germany), Graham Booth (UK)
+     
+  * Record Publications:
+
+    * Dec. 29, 2012 System Error 1st Compilation
+
+    * May. 17, 2013 Healed EP (by Sikhara)
+
+    * Nov. 17, 2013 Stare Directly Into The Eclipse (collaborated with Scott Nydegger)
+
+    * Dec. 27, 2013 System Error 2nd Compilation (upcoming)
+
+## Awards and Honors:
+
+* Sept. 9, 2011 Outstanding Member in Student Union
+* Sept. 9, 2011 Outstanding Member in Guitar Association
+* Sept. 9, 2012 Outstanding President of Student Associations
+
+## Music Skills
+
+* Be proficient in playing Guitar, Bass, Drum, Piano, Euphonium
+* Be proficient in Music Theory, Composition, and Improvisation
