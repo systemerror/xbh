@@ -2,6 +2,7 @@
 
  * <bohanxie.xjtu@gmail.com>
  * (86)18789460468
+ * Portfolio Link: https://backup.filesanywhere.com/fs/v.aspx?v=8c6f66885a5e6fb3b26a
  
 #### Xi'an Jiaotong University
 
@@ -11,34 +12,34 @@ No.28, West Xianning Rd, Beilin District Xi'an, Shaanxi, P.R.China 710049
 
 Bachelor of Engineering in Automation
 #### 09/2010 - present
-School of Electronics and Information Engineering, **Xi’an
-Jiaotong University**
 
-### Courses and skills relevant to Music Technology:
+School of Electronics and Information Engineering, **Xi’an Jiaotong University**, Bachelor of Engineering in Automation
 
-Data Structures and Algorithms, Electric Circuits, Analog Electronics, Digital Logic Circuit Design, Signals and Systems, Digital Signal Processing, Design of Embedded Systems, Testing Technology, Principles of Computer Networks;
+### Courses relevant to Music Technology:
+
+Data Structures and Algorithms, Electric Circuits, Analog Electronics, Digital Logic Circuit Design, Signals and Systems, Digital Signal Processing, Design of Embedded Systems, Testing Technology, Principles of Computer Networks, Virtual Reality and Applications
+
+### Programming and software skills relevant to Music Technology:
+
 C language, C++ language, AutoCAD, MATLAB, LabVIEW
 
 ## Research Experience:
 
-#### 11/2013 - present
+#### 09/2013-present
 
-**Researcher**, The Instrument Timbre Analysis Based on Signal
-Processing & The Power Law of Pitch Fluctuations in the Music Composition, School of Electronics and Information Engineering, Xi’an Jiaotong University
+**Researcher**,  The Instrument Timbre Analysis Based on Signal Processing, Xi’an Jiaotong Universit
 
 * Utilized the frequency domain analysis on the sound samples by using short time Fourier transformation to distinguish the good and bad timbre.
 
-*  Systemized melodics into a mathematical model and took it as a basis to build the power law of pitch fluctuations.
+#### 09/2013-present
+
+**Researcher**, The Power Distribution of Melody Scale Variations, Xi’an Jiaotong University
+
+* Systemized melodies into a mathematical model and took it as a basis to build the power law of pitch fluctuations.
 
 ## Performance Experience
 
-* 09/2010 - present
-
-    Formed the band **Colorful Z-bra** as a lyricist, composer, arranger, lead
-    singer and guitarist. Performed more than 30 times in different venues
-    from various cities.
-
-    Colorful Z-bra’s Events:
+* 09/2010 – present, Formed the band **Colorful Z-bra** as a lyricist, composer, arranger, lead singer and guitarist. Performed more than 30 times in different venues from various cities. **Colorful Z-bra’s Events**:
 
     * Apr. 30, 2012, Performed in 2012 Shanghai Strawberry Music Festival, Shanghai.
 
